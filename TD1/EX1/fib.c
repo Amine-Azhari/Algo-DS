@@ -22,19 +22,3 @@ int fib_dyn(int n)
 
 
 
-
-/*
-void main()
-{
-    int n = 10;
-    for (int i=0; i<MAX; i++)
-    {
-        *(memo + i) = -1;
-    }
-    int fibo1 = fib_naive(n);
-    int fibo2 = fib_dyn(n);
-    printf("%d\n", fibo1);
-    printf("%d\n", fibo2);
-}
-*/
-
